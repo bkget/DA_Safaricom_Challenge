@@ -1,0 +1,15 @@
+Employee,Department,State,Salary,Age,Bonus,Gender
+Abel,Sales,Deri Dawa,90000,34,10000,M
+Mesfin,Sales,Deri Dawa,86000,56,20000,F
+Tesfaw,Sales,Gondar,81000,30,23000,M
+Tesfaw,Sales,Gondar,81000,30,23000,M
+Iwunetu,Finance,Jijiga,90000,49,23000,M
+Kefale,Finance,Gondar,99000,40,24000,
+Palit,Finance,Deri Dawa,83000,36,19000,M
+Palit,Finance,Deri Dawa,83000,36,19000,M
+Kidist,Finance,Gondar,79000,53,15000,F
+Ashebir,Marketing,Jijiga,80000,65,18000,M
+Melkamu,Marketing,Gondar,91000,50,21000,M
+Bethelhem,Sales,Adama,4000,26,14000,F
+Gessese,Finance,Deri Dawa,7000,43,12000,F
+Melat,Sales,Adama,78000,39,31000,M
